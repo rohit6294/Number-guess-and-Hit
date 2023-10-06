@@ -1,3 +1,5 @@
+You can check out the project here: https://rohit6294.github.io/Number-guess-and-Hit/?
+
 # Number Guessing Game
 
 Welcome to the Number Guessing Game! This is a simple web-based game where players guess a secret number between 1 and 100. Players have 10 attempts to guess the correct number. If they succeed, they win the game. If they run out of attempts, the game is over.
